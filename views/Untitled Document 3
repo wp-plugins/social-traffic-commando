@@ -1,0 +1,25 @@
+<html>
+ <head><title>Question One(b)</title></head>
+ <body>
+  <table align="center">
+    <tr>
+	<td>My data</td>
+	<td>My Image</td>
+	<td rowspan="2" colspan="2">My Image 2</td>
+    </tr>
+    <tr>
+	<td>My data 2</td>
+	<td rowspan="3">My Image</td>
+    </tr>
+    <tr>
+	<td>My data 3</td>
+	<td>My Image</td>
+    </tr>
+    <tr>
+	<td>My data 4</td>
+	<td>My data 7</td>
+	<td>My Image 3</td>
+    </tr>
+  </table>
+ </body>
+</html>

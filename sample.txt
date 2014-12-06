@@ -1,0 +1,4 @@
+diigo, test, test1234
+lj, test, test1234
+livejournal, test, test1234
+delicious, test, test1234
